@@ -1,0 +1,6 @@
+{
+  "name": "Ganesh Kumar Portfolio",
+  "description": "A premium, luxury, modern photography portfolio website featuring fine-art landscape, geometry, and everyday stories by Ganesh Kumar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
