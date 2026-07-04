@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/ganesh-photography/', // <-- Replace with your GitHub repository name
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
